@@ -50,9 +50,9 @@ export default function Landing() {
         >
           <span className="inline-block px-8">
             🚀 Demo Developed By <span className="text-primary font-medium">Murshid Alam</span> • 
-            Professional Investment Platform Demo • 
+            Professional Web Developer • 
             🚀 Demo Developed By <span className="text-primary font-medium">Murshid Alam</span> • 
-            Professional Investment Platform Demo
+            Professional Web Developer
           </span>
         </motion.div>
       </div>
@@ -67,9 +67,9 @@ export default function Landing() {
         >
           <span className="inline-block px-8">
             🚀 Demo Developed By <span className="text-primary font-medium">Murshid Alam</span> • 
-            Professional Investment Platform Demo • 
+            Professional Web Developer • 
             🚀 Demo Developed By <span className="text-primary font-medium">Murshid Alam</span> • 
-            Professional Investment Platform Demo
+            Professional Web Developer
           </span>
         </motion.div>
       </div>
